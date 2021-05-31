@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\bin\Debug\zavrsnoPonavljanjeZad3.exe.config
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\bin\Debug\zavrsnoPonavljanjeZad3.exe
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\bin\Debug\zavrsnoPonavljanjeZad3.pdb
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\obj\Debug\zavrsnoPonavljanjeZad3.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\obj\Debug\zavrsnoPonavljanjeZad3.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\obj\Debug\zavrsnoPonavljanjeZad3.exe
+C:\Users\Učenik 5\source\repos\zavrsnoPonavljanjeZad3\zavrsnoPonavljanjeZad3\obj\Debug\zavrsnoPonavljanjeZad3.pdb
